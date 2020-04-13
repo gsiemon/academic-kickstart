@@ -18,34 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Datascientist with R (Career Track)"
+  url = "https://learn.datacamp.com/career-tracks/data-scientist-with-r?version=1"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/f5b3f2b20fe70909ee04ad151e944add9ab6ea6a"
+  date_start = "2018-03-01"
+  date_end = "2018-05-01"
+  description = "A collection of 23 online ourses spanning 94 hours of learning focused on developing statistical and machine learning techniques with R programming to analyze and interpret complex data."
 
 +++
